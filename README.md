@@ -2,8 +2,7 @@
 
 # 👋 Hi, I’m Ganesh K S  
 
-🌟 **MERN Stack Developer** with **2.5 years of experience**, passionate about building scalable web applications and creating seamless user experiences.  
-☁️ Skilled in **Docker** and **AWS**, leveraging cloud services for efficient deployments.  
+🌟 **MERN Stack Developer** with **2.5 years of experience**, passionate about building web applications
 
 ---
 
